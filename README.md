@@ -2,7 +2,7 @@
 
 How would you manage changes in a project ?
 
-Let's say we have a project, and at any moment you want to go back to some other versions of that project, where that project was actually in the working stage, then we can use something known as Version Control System(VCS). And the most popular version control system is called git. What VCS does can be explained in two phrases (tracking files, managing changes). 
+Let's say we have a project, and at any moment you want to go back to some other versions of that project, where that project was actually in the working stage, then we can use something known as Version Control System(VCS). And the most popular version control system is called git. 
 
 
 ### Version Control System 
